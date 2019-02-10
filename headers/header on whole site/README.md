@@ -1,0 +1,1 @@
+Nagłowek na całą stronę z kursu programowania CodeBerry.
